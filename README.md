@@ -15,4 +15,4 @@ accelerometer as the only sensor to collect data from which features will be gen
 frequency domain.
 
 ## Results and Discussion
-Refer to the pdf attached.
+Refer to the pdf attached Results.pdf.
